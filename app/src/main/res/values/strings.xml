@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android52_btvnday3</string>
+    <string name="edittext_hint1"><font size="12">Name</font></string>
+    <string name="edittext_hint2"><font size="12">Email</font></string>
+    <string name="edittext_hint3"><font size="12">Password</font></string>
+    <string name="edittext_hint4"><font size="12">Phone Number</font></string>
+    <string name="agree">I agree with the <b>Terms Condition</b> &amp; <b>Privacy Policy</b></string>
+</resources>
